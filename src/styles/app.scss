@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index';
+// Ant design
+@import '~ant-design-vue/dist/antd.css';
+
+// Partials
+@import 'partials/label';
